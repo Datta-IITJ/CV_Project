@@ -51,3 +51,7 @@ Another aspect of our project is the rotated watermark. We will be adding the sa
 <p align="center">
   <img src="Images/22.1.png" alt="image_description" width="300"/><br>
 </p><br><br>
+Here in the example you can see we have added the rotated watermark - <br><br>
+<p align="center">
+  <img src="Images/2.png" alt="image_description" width="300"/><br>
+</p><br><br>
