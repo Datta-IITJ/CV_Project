@@ -98,5 +98,9 @@ After detecting the watermark, we used inpainting methods to remove it from the 
 </p>
 Overall, our results indicate that our text watermarking technique is effective at protecting the copyright of the images while maintaining a relatively low level of distortion. However, there is still room for improvement, and we plan to continue exploring and refining our techniques in future work.<br>
 
+## Invisible Watermarking
+
+Here, we are trying to add an invisible watermark to our input image. The process involves defining the text to be used as the watermark and converting it to a binary image which is then embedded into the original image using alpha blending. The alpha parameter determines the transparency of the watermark, with a smaller alpha value resulting in a more subtle watermark. Finally, the resulting watermarked image is saved as an output image.
+
 ## Conclusion
 In conclusion, this project has explored various watermarking techniques and evaluated their effectiveness in protecting image copyright. We have also identified potential flaws in the watermarking process and developed strategies to strengthen image protection. By using evaluation metrics, we have compared different watermarking techniques and provided results accordingly.<br>
