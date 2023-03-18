@@ -9,8 +9,9 @@ Here is the logo we have used for watermarking purpose<br>
   <img src="Images/3.jpeg" alt="image_description" width="300"/><br>
  </p>
 After adding this we got the following images: <br>
-<img src="Images/77.png" alt="image_description" width="750"/><br>
-
+<p align="center">
+  <img src="Images/77.png" alt="image_description" width="750"/><br>
+</p>
 
 <img src="Images/WhatsApp Image 2023-03-18 at 7.08.12 PM.jpeg" alt="image_description" width="300"/>
 
