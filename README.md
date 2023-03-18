@@ -8,7 +8,7 @@ Here is the logo we have used for watermarking purpose<br>
 <p align="center">
   <img src="Images/3.jpeg" alt="image_description" width="300"/><br>
  </p>
-After adding this we got the following images: <br>
+After adding this and removing we got the following images: <br><br>
 <p align="center">
   <img src="Images/77.png" alt="image_description" width="750"/><br>
 </p>
