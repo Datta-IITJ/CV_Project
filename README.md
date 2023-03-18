@@ -48,7 +48,10 @@ After removing this got the following result - <br>
   <img src="Images/t2.png" alt="image_description" width="300"/><br>
 </p><br>
 We have also used text at random positions for watermarking as well.<br>
-For the evaluation metrics we have used differnt loss functions for calculation of the loss between the (original image, watermarked image) and (original image, Watermark removed image)<br>
+
+### Evaluation Metrics
+
+For evaluating the watermarking techniques, we have used different loss functions to calculate the loss between the (original image, watermarked image) and (original image, watermark-removed image). The loss functions we have used are:
 The used evaluation metrices are- <br>
 1. MSE Loss <br>
 2. Log Loss <br>
