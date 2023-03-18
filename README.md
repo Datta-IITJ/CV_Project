@@ -50,23 +50,6 @@ After removing this got the following result - <br>
 </p>
 We have also used text at random positions for watermarking as well.<br>
 
-### Evaluation Metrics
-
-For evaluating the watermarking techniques, we have used different loss functions to calculate the loss between the (original image, watermarked image) and (original image, watermark-removed image). The loss functions we have used are:
-The used evaluation metrices are-
-1. MSE Loss <br>
-2. Log Loss <br>
-3. Pairwise Loss <br>
-We have calculated the loss for each pairs. I am giving an example of loss plot - <br><br>
-<p align="center">
-  <img src="Images/33.png" alt="image_description" width="300"/><br>
-</p><br>
-As we can see the loss after adding the watermark and It's in the range of 1 which is good. That means we are chaning very few pixels in the image.<br>
-After removing these watermark here is the loss - <br><br>
-<p align="center">
-  <img src="Images/1.png" alt="image_description" width="300"/><br>
-</p>
-
 ## Rotated Watermark
 
 Another aspect of our project is the rotated watermark. We will be adding the same image watermark but that will be rotated so, that finding the watermark in the image becomed difficult. In such cases ORB, SIFT methods have worked well. Here is an example of rotated watermark- <br><br>
@@ -97,6 +80,23 @@ After detecting the watermark, we used inpainting methods to remove it from the 
   <img src="Images/4.png" alt="Image with text watermark" width="400"/><br>
 </p>
 Overall, our results indicate that our text watermarking technique is effective at protecting the copyright of the images while maintaining a relatively low level of distortion. However, there is still room for improvement, and we plan to continue exploring and refining our techniques in future work.<br>
+
+### Evaluation Metrics
+
+For evaluating the watermarking techniques, we have used different loss functions to calculate the loss between the (original image, watermarked image) and (original image, watermark-removed image). The loss functions we have used are:
+The used evaluation metrices are-
+1. MSE Loss <br>
+2. Log Loss <br>
+3. Pairwise Loss <br>
+We have calculated the loss for each pairs. I am giving an example of loss plot - <br><br>
+<p align="center">
+  <img src="Images/33.png" alt="image_description" width="300"/><br>
+</p><br>
+As we can see the loss after adding the watermark and It's in the range of 1 which is good. That means we are chaning very few pixels in the image.<br>
+After removing these watermark here is the loss - <br><br>
+<p align="center">
+  <img src="Images/1.png" alt="image_description" width="300"/><br>
+</p>
 
 ## Invisible Watermarking
 
