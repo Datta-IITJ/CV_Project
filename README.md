@@ -81,3 +81,5 @@ After removing this we got - <br><br>
   <img src="Images/3.png" alt="image_description" width="400"/><br>
 </p><br>
 
+## Conclusion
+In conclusion, this project has explored various watermarking techniques and evaluated their effectiveness in protecting image copyright. We have also identified potential flaws in the watermarking process and developed strategies to strengthen image protection. By using evaluation metrics, we have compared different watermarking techniques and provided results accordingly.<br>
