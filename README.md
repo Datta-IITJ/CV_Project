@@ -33,7 +33,7 @@ We have also used text at random positions for watermarking as well. As you can 
 
 ### Techniques
 
-For removal of the watermark we have used different techniques. Like for image watermark removal we have used the following methods - <br>
+For removal of the watermark we have used different techniques. Like for image watermark removal we have used the following methods -
 For the detection of the watermark the methods used are-
 1. Template Matching<br>
 2. Sift<br>
@@ -52,7 +52,7 @@ We have also used text at random positions for watermarking as well.<br>
 ### Evaluation Metrics
 
 For evaluating the watermarking techniques, we have used different loss functions to calculate the loss between the (original image, watermarked image) and (original image, watermark-removed image). The loss functions we have used are:
-The used evaluation metrices are- <br>
+The used evaluation metrices are-
 1. MSE Loss <br>
 2. Log Loss <br>
 3. Pairwise Loss <br>
