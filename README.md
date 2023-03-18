@@ -26,7 +26,8 @@ After adding this and removing we got the following images: <br>
 <p align="center">
   <img src="Images/77.png" alt="image_description" width="750"/><br>
 </p>
-We have also used text at random positions for watermarking as well. As you can see - <br>
+We have also used text at random positions for watermarking as well. As you can see - 
+<br>
 <p align="center">
   <img src="Images/WhatsApp Image 2023-03-18 at 7.08.12 PM.jpeg" alt="image_description" width="300"/>
 </p>
