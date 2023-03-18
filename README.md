@@ -22,7 +22,7 @@ For the detection of the watermark the methods used are- <br>
 2. Sift<br>
 3. ORB<br>
 After detecting these we have used inpainting method to remove the image watermark. We have tried to do by replacing the mean value of the pixels but that didnot gave good results. <br>
-For text detection and removal we have used sate of the art OCR methods. Like you can see below-><br>
+For text detection and removal we have used sate of the art OCR methods. Like you can see below-><br><br>
 <p align="center">
   <img src="Images/t1.jpg" alt="image_description" width="300"/><br>
 </p><br><br>
@@ -30,6 +30,15 @@ After removing this got the following result - <br>
 <p align="center">
   <img src="Images/t2.png" alt="image_description" width="300"/><br>
 </p><br><br>
-We have also used text at random positions for watermarking as well.
+We have also used text at random positions for watermarking as well.<br>
+For the evaluation metrics we have used differnt loss functions for calculation of the loss between the (original image, watermarked image) and (original image, Watermark removed image)<br>
+The used evaluation metrices are- <br>
+1. MSE Loss <br>
+2. Log Loss <br>
+3. Pairwise Loss <br>
+We have calculated the loss for each pairs. I am giving an example of loss plot - <br><br>
+<p align="center">
+  <img src="Images/33.png" alt="image_description" width="300"/><br>
+</p><br><br>
 
 \newline
