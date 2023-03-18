@@ -1,5 +1,11 @@
 # CV_Project 
 # TITLE: WATERMARKING IN IMAGES<br>
+
+Name of Students:<br>
+1. Vandita Agarwal<br>
+2. Shilajit Banerjee<br>
+3. Dattatreyo Roy<br>
+
 This is the Computer Vision project 1.
 
 The main objective of the project is to explore different ways of protecting image copyright through image watermarking and identifying potential flaws in the process.
