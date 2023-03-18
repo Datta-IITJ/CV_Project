@@ -8,5 +8,6 @@ Here is the logo we have used for watermarking purpose
 <img src="Images/3.jpeg" alt="image_description" width="300"/>
 ![alt text](Images/3.jpeg)
 <img src="Images/WhatsApp Image 2023-03-18 at 7.08.12 PM.jpeg" alt="image_description" width="300"/>
+
 We have also used text at random positions for watermarking as well.
-![alt text](Images/WhatsApp Image 2023-03-18 at 7.08.12 PM.jpeg)
+![Added Text](Images/WhatsApp Image 2023-03-18 at 7.08.12 PM.jpeg)
