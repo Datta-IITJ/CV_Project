@@ -81,5 +81,15 @@ After removing this we got - <br><br>
   <img src="Images/3.png" alt="image_description" width="400"/><br>
 </p><br>
 
+
+## Text Watermarking
+
+In addition to image watermarking, we also explored watermarking techniques using text. For this, we randomly placed text in various locations on the images to be watermarked.
+
+To detect the text watermark, we used state-of-the-art OCR (Optical Character Recognition) methods. Here's an example of an image with a text watermark:
+<p align="center">
+  <img src="Images/4.jpg" alt="Image with text watermark" width="400" />
+</p>
+
 ## Conclusion
 In conclusion, this project has explored various watermarking techniques and evaluated their effectiveness in protecting image copyright. We have also identified potential flaws in the watermarking process and developed strategies to strengthen image protection. By using evaluation metrics, we have compared different watermarking techniques and provided results accordingly.<br>
