@@ -1,7 +1,7 @@
 # CV_Project 
 # TITLE: WATERMARKING IN IMAGES<br>
 
-<font size="5"> Overview</font> <br>
+<font size="9"> Overview</font> <br>
 
 This is a Computer Vision project focused on exploring different ways of protecting image copyright through image watermarking and identifying potential flaws in the process. The project aims to implement watermarking techniques, such as visible and invisible watermarking through logos and text, and evaluate their effectiveness in protecting copyright. It also explores potential flaws or weaknesses in the watermarking process and develops strategies to strengthen image protection. Additionally, the project uses evaluation measures to check watermarking techniques used and provides results accordingly for comparison purposes.<br>
 
