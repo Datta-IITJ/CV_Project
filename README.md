@@ -92,7 +92,7 @@ We have calculated the loss for each pairs. I am giving an example of loss plot 
 <p align="center">
   <img src="Images/33.png" alt="image_description" width="300"/><br>
 </p><br>
-As we can see the loss after adding the watermark and It's in the range of 1 which is good. That means we are chaning very few pixels in the image.<br>
+As we can see the loss after adding the watermark and It's in the range of 1 which is good. That means we are changing very few pixels in the image.<br>
 After removing these watermark here is the loss - <br><br>
 <p align="center">
   <img src="Images/1.png" alt="image_description" width="300"/><br>
