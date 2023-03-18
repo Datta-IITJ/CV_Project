@@ -88,7 +88,7 @@ In addition to image watermarking, we also explored watermarking techniques usin
 
 To detect the text watermark, we used state-of-the-art OCR (Optical Character Recognition) methods. Here's an example of an image with a text watermark:
 <p align="center">
-  <img src="Images/4.jpg" alt="Image with text watermark" width="400" />
+  <img src="Images/4.png" alt="Image with text watermark" width="400"/><br>
 </p>
 
 ## Conclusion
