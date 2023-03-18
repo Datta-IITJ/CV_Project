@@ -6,7 +6,9 @@ The project will implement watermarking techniques such as visible and invisible
 After then it will implement techniques to remove that watermark from the watermarked images, so as to receive almost original images again. The project will also explore potential flaws or weaknesses in the watermarking process and develop strategies to strengthen image protection. Ultimately, it will also use evaluation measures to check watermarking techniques used and give results accordingly, so that we could compare these techniques
 Here is the logo we have used for watermarking purpose
 <img src="Images/3.jpeg" alt="image_description" width="300"/>
-![alt text](Images/3.jpeg)<.br>
+
+
+
 <img src="Images/WhatsApp Image 2023-03-18 at 7.08.12 PM.jpeg" alt="image_description" width="300"/>
 
 We have also used text at random positions for watermarking as well.
