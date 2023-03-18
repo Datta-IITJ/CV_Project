@@ -55,3 +55,7 @@ Here in the example you can see we have added the rotated watermark - <br><br>
 <p align="center">
   <img src="Images/2.png" alt="image_description" width="300"/><br>
 </p><br><br>
+After removing this we got - <br><br>
+<p align="center">
+  <img src="Images/3.png" alt="image_description" width="400"/><br>
+</p><br><br>
