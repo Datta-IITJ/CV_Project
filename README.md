@@ -28,7 +28,7 @@ For text detection and removal we have used sate of the art OCR methods. Like yo
 </p><br><br>
 After removing this got the following result - <br>
 <p align="center">
-  <img src="Images/t2.jpg" alt="image_description" width="750"/><br>
+  <img src="Images/t2.png" alt="image_description" width="750"/><br>
 </p><br><br>
 We have also used text at random positions for watermarking as well.
 
