@@ -1,6 +1,9 @@
 # CV_Project 
 # TITLE: WATERMARKING IN IMAGES<br>
 
+Overview<br>
+This is a Computer Vision project focused on exploring different ways of protecting image copyright through image watermarking and identifying potential flaws in the process. The project aims to implement watermarking techniques, such as visible and invisible watermarking through logos and text, and evaluate their effectiveness in protecting copyright. It also explores potential flaws or weaknesses in the watermarking process and develops strategies to strengthen image protection. Additionally, the project uses evaluation measures to check watermarking techniques used and provides results accordingly for comparison purposes.<br>
+
 Name of Students:<br>
 1. Vandita Agarwal<br>
 2. Shilajit Banerjee<br>
@@ -67,3 +70,4 @@ After removing this we got - <br><br>
 <p align="center">
   <img src="Images/3.png" alt="image_description" width="400"/><br>
 </p><br>
+
