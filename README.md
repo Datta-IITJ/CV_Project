@@ -85,11 +85,17 @@ After removing this we got - <br><br>
 ## Text Watermarking
 
 In addition to image watermarking, we also explored watermarking techniques using text. For this, we randomly placed text in various locations on the images to be watermarked.
-
 To detect the text watermark, we used state-of-the-art OCR (Optical Character Recognition) methods. Here's an example of an image with a text watermark:
 <p align="center">
-  <img src="Images/4.png" alt="Image with text watermark" width="400"/><br>
+  <img src="Images/4.png" alt="Image with text watermark" width="400" />
 </p>
+
+After detecting the watermark, we used inpainting methods to remove it from the image. Here's an example of an image after removing the text watermark:
+
+<p align="center">
+  <img src="Images/5.jpg" alt="Image with text watermark" width="400"/><br>
+</p>
+Overall, our results indicate that our text watermarking technique is effective at protecting the copyright of the images while maintaining a relatively low level of distortion. However, there is still room for improvement, and we plan to continue exploring and refining our techniques in future work.<br>
 
 ## Conclusion
 In conclusion, this project has explored various watermarking techniques and evaluated their effectiveness in protecting image copyright. We have also identified potential flaws in the watermarking process and developed strategies to strengthen image protection. By using evaluation metrics, we have compared different watermarking techniques and provided results accordingly.<br>
