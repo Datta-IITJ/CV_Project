@@ -30,6 +30,9 @@ We have also used text at random positions for watermarking as well. As you can 
 <p align="center">
   <img src="Images/WhatsApp Image 2023-03-18 at 7.08.12 PM.jpeg" alt="image_description" width="300"/>
 </p>
+
+### Techniques
+
 For removal of the watermark we have used different techniques. Like for image watermark removal we have used the following methods - <br>
 For the detection of the watermark the methods used are- <br>
 1. Template Matching<br>
