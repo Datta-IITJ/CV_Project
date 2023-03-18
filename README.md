@@ -46,7 +46,8 @@ After removing these watermark here is the loss - <br><br>
   <img src="Images/33.png" alt="image_description" width="300"/><br>
 </p><br><br>
 
-
-
-
-\newline
+# Rotated Watermark
+Another aspect of our project is the rotated watermark. We will be adding the same image watermark but that will be rotated so, that finding the watermark in the image becomed difficult. In such cases ORB, SIFT methods have worked well. Here is an example of rotated watermark- <br><br>
+<p align="center">
+  <img src="Images/22.1.png" alt="image_description" width="300"/><br>
+</p><br><br>
