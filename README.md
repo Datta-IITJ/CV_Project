@@ -1,5 +1,5 @@
 # CV_Project 
-TITLE: WATERMARKING IN IMAGES<br>
+# TITLE: WATERMARKING IN IMAGES<br>
 This is the Computer Vision project 1.
 
 The main objective of the project is to explore different ways of protecting image copyright through image watermarking and identifying potential flaws in the process.
