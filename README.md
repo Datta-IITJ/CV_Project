@@ -11,7 +11,7 @@ This is the Computer Vision project 1.
 The main objective of the project is to explore different ways of protecting image copyright through image watermarking and identifying potential flaws in the process.
 The project will implement watermarking techniques such as visible and invisible watermarking through logos and text and evaluate their effectiveness in protecting copyright.
 After then it will implement techniques to remove that watermark from the watermarked images, so as to receive almost original images again. The project will also explore potential flaws or weaknesses in the watermarking process and develop strategies to strengthen image protection. Ultimately, it will also use evaluation measures to check watermarking techniques used and give results accordingly, so that we could compare these techniques.<br>
-Here is the logo we have used for watermarking purpose.<br><br>
+Here is the logo we have used for watermarking purpose.<br>
 <p align="center">
   <img src="Images/3.jpeg" alt="image_description" width="200"/><br>
  </p>
@@ -52,7 +52,6 @@ After removing these watermark here is the loss - <br><br>
 <p align="center">
   <img src="Images/1.png" alt="image_description" width="300"/><br>
 </p>
-
 # Rotated Watermark
 Another aspect of our project is the rotated watermark. We will be adding the same image watermark but that will be rotated so, that finding the watermark in the image becomed difficult. In such cases ORB, SIFT methods have worked well. Here is an example of rotated watermark- <br><br>
 <p align="center">
