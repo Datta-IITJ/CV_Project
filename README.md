@@ -39,7 +39,7 @@ For the detection of the watermark the methods used are-
 1. Template Matching<br>
 2. Sift<br>
 3. ORB<br>
-After detecting these we have used inpainting method to remove the image watermark. We have tried to do by replacing the mean value of the pixels but that didnot gave good results. <br>
+<br>After detecting these we have used inpainting method to remove the image watermark. We have tried to do by replacing the mean value of the pixels but that didnot gave good results. <br>
 For text detection and removal we have used sate of the art OCR methods. Like you can see below-><br><br>
 <p align="center">
   <img src="Images/t1.jpg" alt="image_description" width="300"/><br>
