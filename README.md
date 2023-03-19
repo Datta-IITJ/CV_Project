@@ -77,7 +77,7 @@ To detect the text watermark, we used state-of-the-art OCR (Optical Character Re
 After detecting the watermark, we used inpainting methods to remove it from the image. Here's an example of an image after removing the text watermark:
 
 <p align="center">
-  <img src="Images/4.png" alt="Image with text watermark" width="400"/><br>
+  <img src="Images/remt1.png" alt="Image with text watermark" width="400"/><br>
 </p>
 Overall, our results indicate that our text watermarking technique is effective at protecting the copyright of the images while maintaining a relatively low level of distortion. However, there is still room for improvement, and we plan to continue exploring and refining our techniques in future work.<br>
 
