@@ -40,15 +40,6 @@ For the detection of the watermark the methods used are-
 2. Sift<br>
 3. ORB<br>
 <br>After detecting these we have used inpainting method to remove the image watermark. We have tried to do by replacing the mean value of the pixels but that didnot gave good results. <br>
-For text detection and removal we have used sate of the art OCR methods. Like you can see below-><br><br>
-<p align="center">
-  <img src="Images/t1.jpg" alt="image_description" width="300"/><br>
-</p>
-After removing this got the following result - <br>
-<p align="center">
-  <img src="Images/t2.png" alt="image_description" width="300"/><br>
-</p>
-We have also used text at random positions for watermarking as well.<br>
 
 ## Rotated Watermark
 
@@ -69,6 +60,7 @@ After removing this we got - <br><br>
 ## Text Watermarking
 
 In addition to image watermarking, we also explored watermarking techniques using text. For this, we randomly placed text in various locations on the images to be watermarked.
+
 To detect the text watermark, we used state-of-the-art OCR (Optical Character Recognition) methods. Here's an example of an image with a text watermark:
 <p align="center">
   <img src="Images/6.png" alt="Image with text watermark" width="400" />
@@ -79,6 +71,17 @@ After detecting the watermark, we used inpainting methods to remove it from the 
 <p align="center">
   <img src="Images/remt1.png" alt="Image with text watermark" width="400"/><br>
 </p>
+
+For text detection and removal we have used sate of the art OCR methods. Like you can see below-><br><br>
+<p align="center">
+  <img src="Images/t1.jpg" alt="image_description" width="300"/><br>
+</p>
+After removing this got the following result - <br>
+<p align="center">
+  <img src="Images/t2.png" alt="image_description" width="300"/><br>
+</p>
+We have also used text at random positions for watermarking as well.<br>
+
 Overall, our results indicate that our text watermarking technique is effective at protecting the copyright of the images while maintaining a relatively low level of distortion. However, there is still room for improvement, and we plan to continue exploring and refining our techniques in future work.<br>
 
 ### Evaluation Metrics
