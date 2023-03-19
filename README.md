@@ -1,5 +1,6 @@
 # CV_Project 
 # TITLE: WATERMARKING IN IMAGES<br>
+<font color="red">This text will be red</font>
 
 ## Overview
 
